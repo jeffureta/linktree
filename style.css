@@ -115,6 +115,9 @@
     #linktree {
     margin-top: 0px;
     border-radius: 0px;
-  }
+    }
+    .links .button {
+      font-size: 0.5em;
+    }
     }
   }
